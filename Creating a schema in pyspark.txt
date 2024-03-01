@@ -1,3 +1,0 @@
-Creating schema in pyspark:
-
-https://www.youtube.com/watch?v=9kieDEta0t0
